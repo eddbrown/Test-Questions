@@ -1,1 +1,1 @@
-Explain what the 'upstream' remote is usually used for, in your own words
+The Upstream remote is simply the mechanism that you can upload to the repository on GitHub. This is opposed to the downstream remote which is where you pull data from the repository from GitHub.
